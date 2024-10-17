@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gayuh Widyanata (@pearlgw) 
+# Hi there! 👋 I'm Gayuh Widyanata (@pearlgw) p
 
 <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611q9jruq72c6vrfveeiq6bwfv2su81fbw9icgmiuum&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Coding Animation">
