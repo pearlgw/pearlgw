@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Gayuh Widyanata (@pearlgw) 
 
-<p align="center">
-    <img src="[https://media.giphy.com/media/xT0xeuOhXGGoU3qMTe/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611q9jruq72c6vrfveeiq6bwfv2su81fbw9icgmiuum&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="480" height="270" alt="Coding Animation">
-</p>
+![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611q9jruq72c6vrfveeiq6bwfv2su81fbw9icgmiuum&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 I'm a software developer with a passion for building web applications and exploring new technologies. I love collaborating on projects that involve front-end development, APIs, and data science. I'm always excited to learn and grow in the world of programming!
 
