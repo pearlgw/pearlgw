@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Pearl (@pearlgw) 
 
-![coding](https://media.giphy.com/media/7zUAGTwwRUt0dPLfRm/giphy.gif)
+![coding]([https://media.giphy.com/media/7zUAGTwwRUt0dPLfRm/giphy.gif](https://media.giphy.com/media/xT0xeuOhXGGoU3qMTe/giphy.gif))
 
 I'm a software developer with a passion for building web applications and exploring new technologies. I love collaborating on projects that involve front-end development, APIs, and data science. I'm always excited to learn and grow in the world of programming!
 
