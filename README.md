@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Pearl (@pearlgw)
+# Hi there! 👋 I'm Pearl (@pearlgw) ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 I'm a software developer with a passion for building web applications and exploring new technologies. I love collaborating on projects that involve front-end development, APIs, and data science. I'm always excited to learn and grow in the world of programming!
 
@@ -15,6 +15,10 @@ I'm a software developer with a passion for building web applications and explor
 - Natural Language Processing (NLP)
 - Internet of Things (IoT) Projects
 
+<p align="center">
+    <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="480" height="270" alt="Coding Animation">
+</p>
+
 ## 🤝 Collaboration
 I'm open to collaborating on:
 - Web development projects (React, Vue.js, Laravel)
@@ -22,20 +26,25 @@ I'm open to collaborating on:
 - Open-source projects that need web developers
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) 💼
-- [Email](mailto:your-email@example.com) 📧
-- [Portfolio](https://your-portfolio-link.com) 🌐
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile) 
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge)](https://your-portfolio-link.com)
 
 ## 💻 Languages & Tools
 Here are some of the technologies and tools I work with:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js, Tailwind CSS
-- **Backend**: PHP, Laravel, Node.js, Python (Flask, FastAPI)
-- **Database**: MySQL, MongoDB, PostgreSQL
-- **Others**: Git, Docker, Linux, Raspberry Pi
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Pearl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pearlgw&show_icons=true&theme=radical)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pearlgw&show_icons=true&theme=radical" alt="Pearl's GitHub Stats">
+</p>
 
 ## 🌟 Featured Projects
 - **[Real-Time Agricultural Monitoring](https://github.com/pearlgw/agrobot-monitoring)**: A Raspberry Pi and YOLO based solution for real-time agricultural monitoring.
@@ -44,4 +53,4 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-Thanks for visiting my profile! 😄
+Thanks for visiting my profile! ![Star](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/star.gif) 😄
