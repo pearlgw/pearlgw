@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Gayuh Widyanata (@pearlgw) 
 
 <p align="center">
-    <img src="https://media.giphy.com/media/xT0xeuOhXGGoU3qMTe/giphy.gif" width="480" height="270" alt="Coding Animation">
+    <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="480" height="270" alt="Coding Animation">
 </p>
 
 I'm a software developer with a passion for building web applications and exploring new technologies. I love collaborating on projects that involve front-end development, APIs, and data science. I'm always excited to learn and grow in the world of programming!
@@ -18,10 +18,6 @@ I'm a software developer with a passion for building web applications and explor
 - Data Science & Machine Learning
 - Natural Language Processing (NLP)
 - Internet of Things (IoT) Projects
-
-<p align="center">
-    <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="480" height="270" alt="Coding Animation">
-</p>
 
 ## 🤝 Collaboration
 I'm open to collaborating on:
