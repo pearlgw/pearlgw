@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Pearl (@pearlgw) ![hacker](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)
+# Hi there! 👋 I'm Pearl (@pearlgw) 
+
+![coding](https://media.giphy.com/media/7zUAGTwwRUt0dPLfRm/giphy.gif)
 
 I'm a software developer with a passion for building web applications and exploring new technologies. I love collaborating on projects that involve front-end development, APIs, and data science. I'm always excited to learn and grow in the world of programming!
 
