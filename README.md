@@ -26,10 +26,10 @@ I'm open to collaborating on:
 - Open-source projects that need web developers
 
 ## 📫 How to Reach Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gayuh-widyanata-6872362b7/) 
-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gayuhnata1@gmail.com)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge)](https://natagw.my.id/)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/natagw.cpp/)
+- <a href="https://www.linkedin.com/in/gayuh-widyanata-6872362b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+- <a href="mailto:gayuhnata1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+- <a href="https://natagw.my.id/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
+- <a href="https://www.instagram.com/natagw.cpp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
 
 ## 💻 Languages & Tools
 Here are some of the technologies and tools I work with:
