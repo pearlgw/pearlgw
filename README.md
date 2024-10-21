@@ -85,6 +85,7 @@ Here are some of the technologies and tools I work with:
 - Homestay Booking Management: A homestay booking management system using Filament for admin role management.
 - Cepkin: A website for creating and managing laundry queues.
 - Digital Sales Platform: A digital platform for conducting sales with roles for admin, producers, and resellers.
+- Voting System: A project for creating and managing voting processes.
 
 ---
 
