@@ -69,9 +69,19 @@ Here are some of the technologies and tools I work with:
 </p>
 
 ## 🌟 Featured Projects
-- **[Real-Time Agricultural Monitoring](https://github.com/pearlgw/agrobot-monitoring)**: A Raspberry Pi and YOLO based solution for real-time agricultural monitoring.
-- **[POS System](https://github.com/pearlgw/pos-system)**: A desktop point-of-sale system built using C# and SQL Server.
-- **[E-commerce Website](https://github.com/pearlgw/ecommerce-site)**: An e-commerce site built using Laravel and Vue.js.
+- Badago E-commerce: A simple e-commerce platform integrated with Midtrans for seamless transactions.
+- Management POS System: A sales management system based on Laravel and MySQL, integrated with Midtrans services.
+- Ruang Cerita Natagw: A platform built with Next.js for sharing stories.
+- POS System (C#): A desktop POS system created for a vocational school competition.
+- Mobile Library System: A Java-based library management application developed for a vocational school competition.
+- Travel GW: A travel platform that helps users plan their journeys.
+- ITEBA Waste Monitoring Web: A website for monitoring waste conditions in specific areas.
+- ITEBA IoT API: An API that connects IoT devices to a database for processing using Machine Learning.
+- Map News: A simple news website that displays location markers based on scraping results using Machine Learning.
+- U-News: A news platform that uses free APIs from the internet to deliver current news.
+- Homestay Booking Management: A homestay booking management system using Filament for admin role management.
+- Cepkin: A website for creating and managing laundry queues.
+- Digital Sales Platform: A digital platform for conducting sales with roles for admin, producers, and resellers.
 
 ---
 
