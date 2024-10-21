@@ -62,6 +62,7 @@ Here are some of the technologies and tools I work with:
 ![React Bootstrap](https://img.shields.io/badge/-React%20Bootstrap-7952B3?style=flat-square&logo=react-bootstrap&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
 <p align="center">
