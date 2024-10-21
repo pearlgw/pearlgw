@@ -65,6 +65,7 @@ Here are some of the technologies and tools I work with:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -86,6 +87,8 @@ Here are some of the technologies and tools I work with:
 - Cepkin: A website for creating and managing laundry queues.
 - Digital Sales Platform: A digital platform for conducting sales with roles for admin, producers, and resellers.
 - Voting System: A project for creating and managing voting processes.
+- IoT API & ML Waste Detection: An API created for IoT systems, integrating Machine Learning models to detect waste.
+- Image Display Web App: A web app built using Next.js that displays image results along with the background of the website creation.
 
 ---
 
