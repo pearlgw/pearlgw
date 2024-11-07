@@ -9,7 +9,7 @@ I'm a software developer with a passion for building web applications and explor
 ## 🔍 About Me
 - 🎓 I graduated with a Software Engineering background from Tunas Harapan Telecommunications Vocational School. And currently I am studying at Dian Nuswantoro University.
 - 🌱 I'm currently expanding my knowledge in **Vue.js**, **Laravel**, and **Next.js**.
-- 💼 I'm working on building a real world solution with **NLP**, **IoT**, and **Object Detection**.
+- 💼 I'm working on building a real world solution with **NLP**, and **Object Detection**.
 - 💬 Ask me about anything related to **web development**, **machine learning**, or **database management**!
 - ⚡ Fun fact: I am also a church drummer and love playing music in my free time.
 
