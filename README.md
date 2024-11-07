@@ -18,7 +18,6 @@ I'm a software developer with a passion for building web applications and explor
 - Data Science & Machine Learning
 - Computer Vision
 - Natural Language Processing (NLP)
-- Internet of Things (IoT) Projects
 
 ## 🤝 Collaboration
 I'm open to collaborating on:
