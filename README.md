@@ -70,7 +70,7 @@ Here are some of the technologies and tools I work with:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pearlgw&show_icons=true&theme=radical" alt="Pearl's GitHub Stats">
 </p>
-update
+
 ## 🌟 Featured Projects
 - Badago E-commerce: A simple e-commerce platform integrated with Midtrans for seamless transactions.
 - Management POS System: A sales management system based on Laravel and MySQL, integrated with Midtrans services.
